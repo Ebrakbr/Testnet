@@ -1,0 +1,5 @@
+2Version together:
+
+modified_CompareTest: Only comare PDFs wiith same Pages + Outcome as Logfile
+
+ComareTest: Final code, inclode search inside PDFs and compare PDFs with different pages and LogFile Outcome
